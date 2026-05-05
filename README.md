@@ -13,7 +13,8 @@ A mini C++ AI chatbot with:
 - Remembers after restart
 - Fuzzy intent matching
 - Lightweight C++ engine
-
+- You can teach it something
+- Lightweight to can be run on old computer
 ## Build
 
 ```bash
