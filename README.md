@@ -22,4 +22,4 @@ g++ main.cpp ml.cpp utils.cpp banner.cpp -o toast
 ## Attention
 
 memory.txt can be use to saved your teach AI work
-you need to make a folder name data and put intents.txt and memory.txt inside it
+
